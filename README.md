@@ -1,18 +1,28 @@
 # Writeups
 
-This repository holds the step-by-step solutions of the training "AI as a
-Tool for Security Work". Each writeup shows one lab, one step at a time. Each
-step has three parts: **Do** (the action), **Result** (what you see when the
-step works), and **Why** (the lesson).
+This repository holds the step-by-step solutions and exercise guides of the
+training "AI as a Tool for Security Work".
 
-You can do each lab again with its writeup. Run the commands in the terminal
-of your own Codespace. The lab directories are in your `participant-NN` repo
-under `labs/`.
+## Exercise guides
 
-**One rule for the whole course:** every file your AI tool reads is a potential
-instruction to that tool.
+Each day has one exercise guide. It lists every exercise in the order of the
+day. Each exercise has five parts: **What you learned**, **Starting point**,
+**Repeat it yourself** (numbered steps with commands), **Check your result**
+(a checklist), and **Gotchas**.
 
-## Day 1
+- [Day 1 — Exercise Guide (2026-10-06)](day-1-exercises.md)
+- [Day 2 — Exercise Guide (2026-10-07)](day-2-exercises.md)
+- [Day 3 — Exercise Guide (2026-10-08)](day-3-exercises.md)
+
+## Day recaps
+
+- [Day 1 recap](day-1-recap.md) — timeline of sessions and releases
+- [Day 3 recap](day-3-recap.md) — timeline of sessions and releases
+
+## Day 1 — Lab solutions
+
+Each solution shows one lab, one step at a time. Each step has three parts:
+**Do** (the action), **Result** (what you see), and **Why** (the lesson).
 
 In the order of the day:
 
