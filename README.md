@@ -1,6 +1,6 @@
 # Writeups
 
-This repository holds the step-by-step solutions and exercise guides of the
+This repository holds the step-by-step exercise guides and lab solutions of the
 training "AI as a Tool for Security Work".
 
 ## Exercise guides
@@ -10,9 +10,9 @@ day. Each exercise has five parts: **What you learned**, **Starting point**,
 **Repeat it yourself** (numbered steps with commands), **Check your result**
 (a checklist), and **Gotchas**.
 
-- [Day 1 — Exercise Guide (2026-10-06)](day-1-exercises.md)
-- [Day 2 — Exercise Guide (2026-10-07)](day-2-exercises.md)
-- [Day 3 — Exercise Guide (2026-10-08)](day-3-exercises.md)
+- [Day 1 — Exercise Guide (2026-10-06)](day-1/exercises.md)
+- [Day 2 — Exercise Guide (2026-10-07)](day-2/exercises.md)
+- [Day 3 — Exercise Guide (2026-10-08)](day-3/exercises.md)
 
 ## Day 1 — Lab solutions
 
