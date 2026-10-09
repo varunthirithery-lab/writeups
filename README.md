@@ -14,11 +14,6 @@ day. Each exercise has five parts: **What you learned**, **Starting point**,
 - [Day 2 — Exercise Guide (2026-10-07)](day-2-exercises.md)
 - [Day 3 — Exercise Guide (2026-10-08)](day-3-exercises.md)
 
-## Day recaps
-
-- [Day 1 recap](day-1-recap.md) — timeline of sessions and releases
-- [Day 3 recap](day-3-recap.md) — timeline of sessions and releases
-
 ## Day 1 — Lab solutions
 
 Each solution shows one lab, one step at a time. Each step has three parts:
