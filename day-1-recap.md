@@ -1,7 +1,7 @@
 # Training Day Recap — 2026-10-06
 
 Assembled from Claude Code prompt logs, git commits, and file timestamps.
-All times in IST (GMT+5:30). The Codespace runs in UTC; times below are converted.
+All times in IST (GMT+5:30).
 Note: no `~/.bash_history` exists, so terminal commands aren't captured — this
 timeline is built from Claude Code prompts, git history, and file timestamps.
 
@@ -16,11 +16,11 @@ timeline is built from Claude Code prompts, git history, and file timestamps.
 - **15:53** — Course-corrected the design: "don't wrap the MCP servers themselves in a driver."
 
 ### Release commits
-- **13:48** — `Release 17` (RAG grounding lab).
-- **16:26** — `Release base` (devcontainer setup, update.sh).
-- **16:32** — `Release 16, 13, 15` (MCP tool harness, context-efficiency, skill-vs-MCP-state labs — 1,311 insertions).
+- **11:47** — `Release 17` (RAG grounding lab).
+- **14:26** — `Release base` (devcontainer setup, update.sh).
+- **14:32** — `Release 16, 13, 15` (MCP tool harness, context-efficiency, skill-vs-MCP-state labs — 1,311 insertions).
 - **16:41** — `Release 18` (pcap-MCP lab with capture files).
-- **16:42** — `Release 04` (subagents lab: analyst/poc-writer/reviewer agents, scoped-review + exploit-kit skills).
+- **16:43** — `Release 04` (subagents lab: analyst/poc-writer/reviewer agents, scoped-review + exploit-kit skills).
 - Also landed: `Release 00, 14, 12`.
 
 ### Late afternoon — Subagents lab (lab-04)

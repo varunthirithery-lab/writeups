@@ -325,15 +325,15 @@ target is untrusted input.
 
 ## Appendix: What the trainer released today
 
-| Time (UTC) | Commit | Content |
+| Time (IST) | Commit | Content |
 |---|---|---|
-| 05:16 | `Release 19` | Initial ai-harness lab (workflows, agents, prompts, schemas) |
-| 05:54 | `Fix Muraena MCP server` | TOML injection, link-local bypass, stale target, signal handler fixes |
-| 07:57 | `Release 19` | Updated ai-harness (bug fixes, new workflows) |
-| 08:19 | `Release base` | Base infrastructure update |
-| 08:26 | `Release 14` | Constrain-with-validator lab update |
-| 08:28 | `Release 15` | Context-efficiency lab update |
-| 08:32 | `Release 17` | RAG grounding lab update |
-| 10:01 | `Release docetl` | DocETL pipeline lab (SARIF triage, comparison) |
-| 13:18 | `Release docetl` | DocETL update (benchmark pipeline) |
-| 13:50 | `Grant Codespace access` | Read access to ai-security-workbench |
+| 10:46 | `Release 19` | Initial ai-harness lab (workflows, agents, prompts, schemas) |
+| 09:23 | `Fix Muraena MCP server` | TOML injection, link-local bypass, stale target, signal handler fixes |
+| 13:27 | `Release 19` | Updated ai-harness (bug fixes, new workflows) |
+| 13:49 | `Release base` | Base infrastructure update |
+| 13:56 | `Release 14` | Constrain-with-validator lab update |
+| 13:58 | `Release 15` | Context-efficiency lab update |
+| 14:02 | `Release 17` | RAG grounding lab update |
+| 15:31 | `Release docetl` | DocETL pipeline lab (SARIF triage, comparison) |
+| 18:48 | `Release docetl` | DocETL update (benchmark pipeline) |
+| 19:20 | `Grant Codespace access` | Read access to ai-security-workbench |

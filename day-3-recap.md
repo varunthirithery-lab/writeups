@@ -1,14 +1,13 @@
 # Training Day Recap — 2026-10-08
 
 Assembled from Claude Code session logs, git commits, bash history, and file
-timestamps. All times in IST (GMT+5:30). The Codespace runs in UTC; times
-below are converted.
+timestamps. All times in IST (GMT+5:30).
 
 ## Timeline
 
 ### Early morning — Trainer releases (before participant starts)
 
-- **05:16–08:32 UTC (trainer)** — Lab 19 (ai-harness) released twice. Muraena MCP server bug fixes (TOML injection, link-local bypass, stale target, signal handler). Base, lab-14, lab-15, and lab-17 updates pushed.
+- **10:46–14:02 IST (trainer)** — Lab 19 (ai-harness) released twice. Muraena MCP server bug fixes (TOML injection, link-local bypass, stale target, signal handler). Base, lab-14, lab-15, and lab-17 updates pushed.
 
 ### Morning — Lab 17 exploration (bash history)
 
@@ -45,21 +44,21 @@ below are converted.
 - **19:05–19:19** — Multiple `quick-scan` and `quick-scan-bench` runs against `vulnerable_app` to verify stability. Mixed results (some completed, some failed).
 - **19:19** — This recap session.
 
-## Release commits (trainer, UTC)
+## Release commits (trainer, IST)
 
-- **05:16** — `Release 19` (initial ai-harness lab).
-- **05:54** — `Fix Muraena MCP server` (TOML injection, link-local bypass, stale target, signal handler).
-- **07:57** — `Release 19` (updated ai-harness).
-- **08:19** — `Release base`.
-- **08:26–08:32** — `Release 14`, `Release 15`, `Release 17`.
-- **10:01** — `Release docetl` (SARIF triage pipeline).
-- **13:18** — `Release docetl` (update with benchmark pipeline).
-- **13:50** — `Grant Codespace read access to ai-security-workbench`.
+- **10:46** — `Release 19` (initial ai-harness lab).
+- **09:23** — `Fix Muraena MCP server` (TOML injection, link-local bypass, stale target, signal handler).
+- **13:27** — `Release 19` (updated ai-harness).
+- **13:49** — `Release base`.
+- **13:56–14:02** — `Release 14`, `Release 15`, `Release 17`.
+- **15:31** — `Release docetl` (SARIF triage pipeline).
+- **18:48** — `Release docetl` (update with benchmark pipeline).
+- **19:20** — `Grant Codespace read access to ai-security-workbench`.
 
 ## Participant commits
 
-- **11:30** — `update benchmark` (benchmark.py iteration).
-- **13:19** — `Add full conversation logging and fix three bugs in agent client` (+120/−24).
+- **17:00** — `update benchmark` (benchmark.py iteration).
+- **18:49** — `Add full conversation logging and fix three bugs in agent client` (+120/−24).
 
 ## Topics covered across the day
 

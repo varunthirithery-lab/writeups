@@ -530,7 +530,7 @@ Two items were trainer presentations during the day, not hands-on exercises.
 ### Showcase A: Muraena AiTM proxy
 
 The trainer released a Muraena (evilginx-style) adversary-in-the-middle proxy
-as a Docker container in the compose stack (released at 10:54 UTC, 643 lines).
+as a Docker container in the compose stack (released at 16:24 IST, 643 lines).
 
 **What it does.** Muraena is a transparent reverse proxy that sits between a
 victim and a legitimate web application. It captures session tokens and

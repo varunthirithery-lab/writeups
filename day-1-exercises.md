@@ -323,9 +323,9 @@ You have `labs/lab-04-subagents/` with:
 
 | Time (IST) | Commit | Content |
 |---|---|---|
-| 13:48 | `Release 17` | RAG grounding lab |
-| 16:26 | `Release base` | Devcontainer setup, update.sh |
-| 16:32 | `Release 16, 13, 15` | MCP tool harness, context-efficiency, skill-vs-MCP-state labs (1,311 lines) |
+| 11:47 | `Release 17` | RAG grounding lab |
+| 14:26 | `Release base` | Devcontainer setup, update.sh |
+| 14:32 | `Release 16, 13, 15` | MCP tool harness, context-efficiency, skill-vs-MCP-state labs (1,311 lines) |
 | 16:41 | `Release 18` | pcap-MCP lab with capture files |
-| 16:42 | `Release 04` | Subagents lab: analyst/poc-writer/reviewer agents, scoped-review + exploit-kit skills |
+| 16:43 | `Release 04` | Subagents lab: analyst/poc-writer/reviewer agents, scoped-review + exploit-kit skills |
 | — | `Release 00, 14, 12` | Setup, constraining-with-validator, local-AI-dev-env labs |
